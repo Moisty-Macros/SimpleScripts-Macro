@@ -6,8 +6,6 @@
 SimpleScripts is a open source Sugarcane Macro mod with tons of great features like fail safe 
 
 
-**How To Use**
-
 
 **Is it Safe?**
 
